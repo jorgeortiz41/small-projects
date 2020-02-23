@@ -1,0 +1,8 @@
+>biological_description_1
+GATCAG
+>biological_description_2
+AATCGG
+>biological_description_3
+AATGGC
+>biological_description_4
+ACTCTA
